@@ -4,8 +4,3 @@
 - 💞️ I’m looking to collaborate on every oportunity I have to get to know more about the coding world.
 - 📫 How to reach me?
       diegojmr5@gmail.com
-
-<!---
-Djmr5/Djmr5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
