@@ -19,7 +19,10 @@ As for the game, I developed the following features:
 - [x] 3rd level game mechanics
 - [x] Store design
 - [x] Player crouching
-![](images/market_chaos_1.png)
+
+| Main Functionalities  |  Tutorials |
+:-------------------------:|:-------------------------:
+![](images/market_chaos_1.png)  |  ![](images/market_chaos_7.png)
 
 As for the dashboard, I developed the following features:
 - [x] User management
