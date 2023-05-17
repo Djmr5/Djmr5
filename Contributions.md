@@ -22,7 +22,7 @@ As for the game, I developed the following features:
 
 | Main Functionalities  |  Tutorials |
 :-------------------------:|:-------------------------:
-![](images/market_chaos_1.png)  |  ![](images/market_chaos_7.png)
+![](Images/market_chaos_1.png)  |  ![](Images/market_chaos_7.png)
 
 As for the dashboard, I developed the following features:
 - [x] User management
@@ -31,6 +31,6 @@ As for the dashboard, I developed the following features:
 
 | Main Functionalities  |  Tutorials |
 :-------------------------:|:-------------------------:
-![](images/market_chaos_2.png)  |  ![](images/market_chaos_4.png)
-![](images/market_chaos_3.png)  |  ![](images/market_chaos_5.png)
-![](images/market_chaos_6.png)  |
+![](Images/market_chaos_2.png)  |  ![](Images/market_chaos_4.png)
+![](Images/market_chaos_3.png)  |  ![](Images/market_chaos_5.png)
+![](Images/market_chaos_6.png)  |
