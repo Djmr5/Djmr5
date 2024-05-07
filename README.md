@@ -32,7 +32,11 @@ A Computer Science Engineer from Mexico. <img src="https://img.icons8.com/color/
   <details open>
   <summary><h3>🤝My Top Contributions💗</h3></summary>
   <p align="left">
-    <a href="https://github.com/CDamianS/CiberServicio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CDamianS&repo=CiberServicio&theme=react&bg_color=171717&title_color=4AA9FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="CiberServicio"></a>
+    <a href="https://github.com/Proyectos-Especiales-CCM/Cyber-Prepa-Back"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Proyectos-Especiales-CCM&repo=Cyber-Prepa-Back&theme=react&bg_color=171717&title_color=4AA9FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cyber-Prepa-Back"></a>
+    <a href="https://github.com/Proyectos-Especiales-CCM/Cyber-Prepa-Front"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Proyectos-Especiales-CCM&repo=Cyber-Prepa-Front&theme=react&bg_color=171717&title_color=4AA9FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cyber-Prepa-Front"></a>
+    <a href="https://github.com/TC3005B-562-2024/Spring-Boot-Backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TC3005B-562-2024&repo=Spring-Boot-Backend&theme=react&bg_color=171717&title_color=4AA9FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Amazon Connect Insights Spring-Boot-Backend"></a>
+    <a href="https://github.com/TC3005B-562-2024/React-Frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=TC3005B-562-2024&repo=React-Frontend&theme=react&bg_color=171717&title_color=4AA9FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Amazon Connect Insights React-Frontend"></a>
+    <a href="https://github.com/mfnomad/HACKATHON_2024"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mfnomad&repo=HACKATHON_2024&theme=react&bg_color=171717&title_color=4AA9FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI hackathon project"></a>
   </p>
   <p align="left">
     <a href="https://github.com/Djmr5/Djmr5/blob/main/Contributions.md"><img alt="My Contributionss" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20My%20Contributions-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
