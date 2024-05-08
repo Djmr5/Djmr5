@@ -58,4 +58,5 @@ A Computer Science Engineer from Mexico. <img src="https://img.icons8.com/color/
       <a href="mailto:diegojmr5@gmail.com?Subject=Your%20Expertise%20is%20Requested!" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Mail-CB3837?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       <a href="https://www.linkedin.com/in/diego-jacobo-95b737210" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
       <a href="https://medium.com/@diegojmr5" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+      <a href="https://drive.google.com/uc?export=download&id=1NKNx6GV539W9W1-Rkv5tQo2IqQdEU-bg" target="_blank"><img alt="CV" src="https://img.shields.io/badge/CV-purple?&style=for-the-badge" /></a>
 </p>
