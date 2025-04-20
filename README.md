@@ -47,8 +47,8 @@ A Computer Science Engineer from Mexico. <img src="https://img.icons8.com/color/
 <details close> 
   <summary><h3>📊My GitHub Fingerprint🐾</h3></summary>
   <p align="left">
-  <img src="https://raw.githubusercontent.com/Djmr5/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/Djmr5/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/Djmr5/github-stats/refs/heads/master/generated/overview.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/Djmr5/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only">
   </p>
 </details>
 
